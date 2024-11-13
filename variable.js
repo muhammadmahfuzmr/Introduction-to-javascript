@@ -1,23 +1,26 @@
-// 5 things to declare a variable
-/*
-key word: var or let or const
-name: variable name
-equal sign: (=)
-value: variable value
-semi-colon: (;)
+// Variable
 
+// Five things to declare a variable
+/**
+ * 1> key word: var / let/ const
+ *
+ * 2> variable Name
+ *
+ * 3> Equal Sign: (=)
+ *
+ * 4> Variable value
+ *
+ * 5> Semi-colon: (:)
+ */
 
-*/
-var age = 22 ;
-/*
-keyword: var,
-name: age,
-equal sign: (=),
-value: 22,
-semi-colon: (;)
+// Example:
+var money = 25;
 
-*/
-var name = 'mahfuz';
-var money = 2522;
-console.log(money)
-console.log(age)
+// keyword: var, variable-name: money, Equal-sign: (=), Variable-value: 25, Semi-color: (;)
+
+let age = 22;
+
+// keyword: let, Variable Name; age, Value: 22
+
+console.log(money);
+console.log(age);
